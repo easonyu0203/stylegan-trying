@@ -1,4 +1,3 @@
 faces/
 dataset
 checkpoint/*000.model
-sample/*[1-9]000.png
